@@ -133,6 +133,7 @@
           "options": {
             "settings": {
               "contextPath": "/Travel",
+              "enhanceI18n": "i18n/customTravelLR.properties",
               "variantManagement": "Page",
               "navigation": {
                 "Travel": {
@@ -167,6 +168,7 @@
             "settings": {
               "editableHeaderContent": false,
               "contextPath": "/Travel",
+              "enhanceI18n": "i18n/customTravelOP.properties",
               "navigation": {
                 "_Booking": {
                   "detail": {
