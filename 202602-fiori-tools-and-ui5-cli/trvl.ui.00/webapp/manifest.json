@@ -145,7 +145,11 @@
                 "@com.sap.vocabularies.UI.v1.LineItem": {
                   "tableSettings": {
                     "type": "ResponsiveTable",
-                    "enableExport": false
+                    "enableExport": false,
+                    "enableMassEdit": {
+                      "operationGroupingMode": "ChangeSet",
+                      "visibleFields": "Description,OverallStatus"
+                    }
                   }
                 }
               }
