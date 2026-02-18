@@ -175,6 +175,13 @@
                     "route": "BookingObjectPage"
                   }
                 }
+              },
+              "controlConfiguration": {
+                "_Booking/@com.sap.vocabularies.UI.v1.LineItem": {
+                  "tableSettings": {
+                    "type": "GridTable"
+                  }
+                }
               }
             }
           },
