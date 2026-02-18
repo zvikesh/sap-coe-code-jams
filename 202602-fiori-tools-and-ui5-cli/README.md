@@ -63,9 +63,8 @@
         - 🔗 [FPM Explorer - enhanceI18n](https://ui5.sap.com/test-resources/sap/fe/core/fpmExplorer/index.html#/buildingBlocks/guidance/adaptI18n)
         - 🔗 [i18n - Text Classification](https://ui5.sap.com/#/topic/582ce93d326540f59d149031a44d5fb0)
     - Change default toast message on 'Save'.
-    - Add [Manage Sales Order V2 (F3893)](https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/detail/Apps('F3893')/S31PCE) under **related apps** and all the apps with ‘BusinessPartner’ semantic object.
     - Toggle list **selection mode** to see impact, leave it back to default (Multi).
-    - Enable **full Screen Mode** (Pop Up) for Object Page table.
+    - Enable **full screen mode** (Pop Up) for Object Page table.
     - Change table type to **grid table**.
     - Creation Mode
         - Set table creation mode as **Inline** | This will overwrite the global **InlineCreationRows**.
