@@ -27,11 +27,7 @@
 ### Connect BTP Trial with ADT
 
 - Connect ADT with BTP Trial Account.
-- Create `Z<NS>_CJ_2026_02` ABAP Package | Fiori Tools and UI5 Tooling.
-- API `Z<NS>_API_TRAVEL_PROC_M_O4` on the top of `/DMO/UI_TRAVEL_PROCESSOR_M` Service Definition.
-- Mark as Favorite.
-    - OData `/DMO/UI_TRAVEL_D_D_O4`.
-    - API `Z<NS>**_API_TRAVEL_PROC_M_O4`.
+- Mark Odata `/DMO/UI_TRAVEL_D_D_O4` as favourite.
 
 ## Day 2: App Generation (OData V4) and List Page Modification
 
